@@ -1,0 +1,2 @@
+backslash==1.0.1  # this is old version
+requests==2.13.0
